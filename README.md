@@ -3,5 +3,6 @@ A simple Code Editor task with Information Technology Institute (ITI) using :
 - JavaScript
 - HTML5
 - CSS3
+- FontAwesome
 - Media Queries
 
